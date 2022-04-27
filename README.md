@@ -4,3 +4,4 @@ Used [react-bootstrap](https://react-bootstrap.github.io/) and [firebase](https:
 
 Screenshots
 ==========
+npm ci && CI=false npm run build
